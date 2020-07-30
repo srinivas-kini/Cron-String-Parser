@@ -1,3 +1,3 @@
 # projects
-Personal Projects
-Cron to Human Readable (Work in Progress)
+
+Cron String to Human Readable Parser (Work in Progress)
