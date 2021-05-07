@@ -1,3 +1,3 @@
 # Cron String Parser
 
-Cron String to Human Readable Parser (Work in Progress)
+A simple utitlity package for parsing Cron Job strings and making them human readable.
